@@ -3,4 +3,4 @@ var varNum2 = 2;
 
 sum = varNum1 + varNum2;
 
-console.log(sum)
+console.log(sum);
