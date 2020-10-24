@@ -1,5 +1,5 @@
 var stringVar = "Hello World";
 
-sumString =  stringVar.toUpperCase();
+upperString =  stringVar.toUpperCase();
 
-console.log(sumString);
+console.log(upperString);
